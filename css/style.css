@@ -1,0 +1,46 @@
+body{
+    background-color:rgb(224, 231, 224);
+}
+label{
+    font-weight: bold;
+    padding-top: 30px;
+}
+button{
+    margin-left: 32px;
+}
+
+.result{
+    background-color: rgba(255, 0, 0, 0.1);
+    height: 330px;
+    border-radius: 5px;
+    box-shadow: 0 0 10px 3px rgba(0, 0, 0, 0.3);
+    font-size: 30px;
+    padding: 6px;
+}
+.result i{
+    color: orange;
+    
+}
+
+.exam{
+    border-radius: 10px;
+    background-color: rgb(164, 248, 220);
+    /* height: 100px; */
+    padding: 10px 10px;
+    box-shadow: 0 0 10px 3px rgba(0, 0, 0, 0.3); 
+}
+.exam h1{
+    background-color: white;
+    padding: 5px 3px;
+    border-radius: 5px;
+    box-shadow: 0 0 10px 3px rgba(0, 0, 0, 0.3);
+    text-align: center; 
+}
+
+.exam .result__title{
+    color: blue;
+    text-align: center; 
+}
+.exam .result__item{
+    padding-left: 225px;
+}
